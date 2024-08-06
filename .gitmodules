@@ -1,3 +1,7 @@
 [submodule "sketch-api"]
 	path = sketch-api
 	url = git@github.com:llong2195/sketch-api.git
+
+[submodule "sketch-web"]
+	path = sketch-web
+	url = git@github.com:llong2195/sketch-web.git
